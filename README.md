@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @softcrash-studio
+- 👀 I’m interested in Creative coding, and learning Python, Processing, Java, and ML
+- 🌱 I’m currently learning Javascript and P5.js! 
